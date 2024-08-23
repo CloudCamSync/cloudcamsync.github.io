@@ -13,8 +13,8 @@
 - **摄像头状态报告**：定期生成并发送摄像头状态报告，确保监控系统的正常运行。
 ## 安装与配置
 请按照我们的 [GitHub 存储库](https://github.com/cloudcamsync/cloudcamsync) 中的说明进行安装和配置。该项目提供详细的文档，帮助您快速上手。
-根据开源项目的步骤，可以快速在linux系统上搭建服务。
-对于小白来说，有的操作还是很难。为了便于小白的上手，本网站也提供帮忙安装软件的服务。帮忙在已安装好ubuntu的电脑上安装调试软件（30元每个客户/3个摄像头），有意者联系cloudcamsync@outlook.com
+根据开源项目的步骤，可以快速在linux系统上搭建服务，本软件无任何保留。  
+但对于小白来说，可能有人第一次接触linux。为了便于小白的上手，本网站也提供帮忙安装软件的服务。帮忙在已安装好ubuntu的电脑上安装调试软件（30元每个客户/3个摄像头），有意者联系cloudcamsync@outlook.com
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QDDEFK47KF"></script>
