@@ -24,5 +24,6 @@
   gtag('config', 'G-QDDEFK47KF');
 </script>
 
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3172485138124543"
      crossorigin="anonymous"></script>
