@@ -12,7 +12,7 @@
 - **邮件提醒**：运动检测到的视频可以触发邮件提醒，通知用户发生了摄像头捕捉的运动。
 - **摄像头状态报告**：定期生成并发送摄像头状态报告，确保监控系统的正常运行。
 ## 安装与配置
-请按照我们的 [GitHub 存储库](https://github.com/cloudsync/cloudcamsync) 中的说明进行安装和配置。该项目提供详细的文档，帮助您快速上手。
+请按照我们的 [GitHub 存储库](https://github.com/cloudcamsync/cloudcamsync) 中的说明进行安装和配置。该项目提供详细的文档，帮助您快速上手。
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QDDEFK47KF"></script>
