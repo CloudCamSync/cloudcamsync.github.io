@@ -9,9 +9,21 @@
   gtag('config', 'G-QDDEFK47KF');
 </script>  
 
-   
+
+  
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3172485138124543"
      crossorigin="anonymous"></script>
+<!-- cloud -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3172485138124543"
+     data-ad-slot="9974179741"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 # CloudCamSync--开源的监控视频云盘自动备份工具，支持在Windows上将摄像头录像自动加密保存到云盘（百度云盘） 
