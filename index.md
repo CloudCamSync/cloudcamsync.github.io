@@ -191,16 +191,6 @@
 * 主码流地址:rtsp://user:password@ip:554/stream1
 * 次码流地址:rtsp://user:password@ip:554/stream2
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDDEFK47KF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-QDDEFK47KF');
-</script>
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3172485138124543"
      crossorigin="anonymous"></script>
